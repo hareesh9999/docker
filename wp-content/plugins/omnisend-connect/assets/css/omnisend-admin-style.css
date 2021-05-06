@@ -1,0 +1,135 @@
+/*Logger modal*/
+
+.logger-section {
+    margin-top: 30px;
+}
+
+.settings-page {
+    padding-right: 20px;
+}
+
+input[type="submit"],
+.logger-section button,
+.omnisend-logger-modal button {
+    cursor: pointer;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 3px 15px;
+    transition: .25s all;
+}
+
+input[type="submit"]:hover,
+.logger-section button:hover,
+.omnisend-logger-modal button:hover {
+    background: #ddd;
+}
+
+input[type="text"] {
+    padding: 5px 10px;
+    border-radius: 1px;
+}
+
+.inner-content {
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+.inner-content p {
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.omnisend-page {
+    padding: 30px 3%;
+}
+
+.omnisend-success {
+    color: blue;
+}
+
+.omnisend-warning,
+.omnisend-warn,
+.omnisend-error {
+    color: red !important;
+}
+
+.current-api-key {
+    color: green;
+    margin-bottom: 15px;
+}
+
+.current-api-key span {
+    color: #000000;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.omnisend-logo {
+    margin: 10px 0 40px 0;
+}
+
+.omnisend-logo img {
+    width: 200px;
+    height: auto;
+}
+
+.clean-log {
+    margin-bottom: 20px !important;
+}
+
+.logging_status {
+    line-height: 19px;
+    padding: 11px 15px;
+    font-size: 14px;
+    text-align: left;
+    margin: 0 20px 20px 2px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    display: inline-block;
+}
+
+.logging_enabled {
+    border-left: 4px solid green;
+}
+
+.logging_disabled {
+    border-left: 4px solid #ffba00;
+}
+
+.logging_red {
+    border-left: 4px solid red;
+}
+
+.omnisend_dn {
+    display: none;
+}
+
+a.change_api_key {
+    cursor: pointer;
+}
+
+.fixed td.fixed_date {
+    width: 150px;
+}
+
+.fixed td.fixed_type {
+    width: 80px;
+}
+
+.fixed td.fixed_endpoint {
+    width: 65px;
+}
+
+.fixed td.fixed_url {
+    width: 300px;
+}
+
+.omni_loader {
+    float: none;
+    vertical-align: top;
+}

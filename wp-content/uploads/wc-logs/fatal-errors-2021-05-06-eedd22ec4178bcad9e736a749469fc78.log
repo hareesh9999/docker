@@ -1,0 +1,2 @@
+2021-05-06T04:12:42+00:00 CRITICAL require(): Failed opening required '/var/www/html/drag_drop/wp-content/themes/neve/classes/class-twentynineteen-svg-icons.php' (include_path='.:/usr/share/php') in /var/www/html/drag_drop/wp-content/themes/twentynineteen/functions.php on line 328
+
