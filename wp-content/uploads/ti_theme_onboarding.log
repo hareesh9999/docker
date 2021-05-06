@@ -1,0 +1,26 @@
+[06/May/2021:08:00:08] (I): WordPress Instance Info:
+[06/May/2021:08:00:08] (I): Home URL : http://localhost/drag_drop
+[06/May/2021:08:00:08] (I): Site URL : http://localhost/drag_drop
+[06/May/2021:08:00:08] (I): WordPress Version : 5.7.1
+[06/May/2021:08:00:08] (I): Onboarding Version : 1.1.9
+[06/May/2021:08:00:08] (I): Multisite : No
+[06/May/2021:08:00:08] (I): Server Info : Apache/2.4.41 (Ubuntu)
+[06/May/2021:08:00:08] (I): PHP Version : 7.4.3
+[06/May/2021:08:00:08] (I): HTTPS : No
+[06/May/2021:08:00:08] (I): PHP Max Execution Time : 180
+[06/May/2021:08:00:08] (I): PHP Max Input Vars : 1000
+[06/May/2021:08:00:08] (I): Max Upload Size : 268435456
+[06/May/2021:08:00:08] (I): Plugins:
+[06/May/2021:08:00:08] (I): [PLUGIN] Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd : v6.2.1 (SeedProd)
+[06/May/2021:08:00:08] (I): [PLUGIN] Creative Mail by Constant Contact : v1.3.5 (Constant Contact)
+[06/May/2021:08:00:08] (I): [PLUGIN] Facebook for WooCommerce : v2.4.0 (Facebook)
+[06/May/2021:08:00:08] (I): [PLUGIN] Google Ads &amp; Marketing by Kliken : v1.0.7 (Kliken)
+[06/May/2021:08:00:08] (I): [PLUGIN] Mailchimp for WooCommerce : v2.5.1 (Mailchimp)
+[06/May/2021:08:00:08] (I): [PLUGIN] Omnisend for Woocommerce : v1.7.6 (Omnisend)
+[06/May/2021:08:00:08] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.4 (ThemeIsle)
+[06/May/2021:08:00:08] (I): [PLUGIN] Templates Patterns Collection : v1.1.9 (ThemeIsle)
+[06/May/2021:08:00:08] (I): [PLUGIN] ThemeGrill Demo Importer : v1.7.1 (ThemeGrill)
+[06/May/2021:08:00:08] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
+[06/May/2021:08:00:08] (I): [PLUGIN] Wonder Slider Trial : v12.9 (Magic Hills Pty Ltd)
+[06/May/2021:08:00:08] (I): [PLUGIN] WP Mail SMTP : v2.7.0 (WPForms)
+[06/May/2021:08:00:08] (I): [PLUGIN] WPForms Lite : v1.6.6 (WPForms)
